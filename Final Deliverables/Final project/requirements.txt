@@ -1,0 +1,5 @@
+flask
+ibm_db
+sendgrid
+IBM watson assistant
+sib_api_v3_sdk
