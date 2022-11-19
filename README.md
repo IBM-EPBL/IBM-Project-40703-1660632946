@@ -22,4 +22,5 @@ Students from : Arunachala College of Engineering for Women,Nagercoil.
 - [x] Planning Phase
 - [x] Project Design-1
 - [x] Project Design-2
-- [ ] Project Deliverables
+- [X] Project Development
+- [X] Final Deliverables
